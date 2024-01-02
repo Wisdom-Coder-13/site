@@ -1,0 +1,14 @@
+div {
+    width: 250px;
+    height: 250px;
+    background: linear-gradient(rgb(251, 204, 50), rgb(118, 60, 184));
+    border: solid 3px;
+    border: none;
+    border-radius: 125px;
+    backdrop-filter: blur(40px);
+
+}
+
+p{
+    color: rgb(182, 182, 41);
+}
